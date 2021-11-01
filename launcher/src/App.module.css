@@ -7,7 +7,9 @@
 }
 
 .miniApp{
+    margin-top: 15px;
     box-shadow: 5px 5px 10px grey;
     height: 35vh;
     width: 50vw;
 }
+
