@@ -1,0 +1,13 @@
+.app{
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.miniApp{
+    box-shadow: 5px 5px 10px grey;
+    height: 35vh;
+    width: 50vw;
+}
